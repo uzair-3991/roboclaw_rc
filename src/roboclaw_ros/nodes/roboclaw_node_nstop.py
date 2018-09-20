@@ -97,16 +97,16 @@ def main():
 	#print a
 	
 	
-	#rc.SetPinFunctions(address, 0,4,0)
+	rc.SetPinFunctions(address, 0,2,0)
 	
 	
 
 	
 	#rc.ForwardM1(address,10)  # go up
-	#
-	#time.sleep(5)
+	
+	#time.sleep(8)
 	rc.BackwardM1(address,10)  # go down 
-	time.sleep(.5)
+	time.sleep(5)
 			
 	
 	enc=rc.ReadEncM1(address)
