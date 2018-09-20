@@ -1,0 +1,8 @@
+prefix=/home/bfb-sc/catkin_ws/install
+
+Name: roboclaw_node
+Description: Description of roboclaw_node
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/bfb-sc/catkin_ws/install/lib 
+Requires: 

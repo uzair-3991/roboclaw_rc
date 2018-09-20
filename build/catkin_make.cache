@@ -1,0 +1,2 @@
+beginner_tutorials:roboclaw_ros:uzair
+-DCATKIN_DEVEL_PREFIX=/home/bfb-sc/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bfb-sc/catkin_ws/install -G Unix Makefiles

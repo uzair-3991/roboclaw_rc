@@ -1,0 +1,8 @@
+prefix=/home/bfb-sc/catkin_ws/install
+
+Name: roboclaw_ros
+Description: Description of roboclaw_ros
+Version: 0.0.0
+Cflags: -I/home/bfb-sc/catkin_ws/install/include
+Libs: -L/home/bfb-sc/catkin_ws/install/lib 
+Requires: 
